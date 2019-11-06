@@ -1,0 +1,7 @@
+.todoItem{
+    margin: 10x;
+    cursor: pointer;
+}
+.completed{
+    text-decoration: line-through;
+}
